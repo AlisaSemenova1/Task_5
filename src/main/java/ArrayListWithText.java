@@ -1,8 +1,7 @@
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
-public class Two {
+public class ArrayListWithText {
     public static void main(String[] args) {
         ArrayList<String> listTwo = new ArrayList();
         listTwo.add("один");

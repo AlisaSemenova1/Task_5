@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class One {
+public class ArrayListWithNumbers {
     public static void main(String[] args) {
         ArrayList<Integer> listOne = new ArrayList<>(Arrays.asList(6, 2, 4, 3, 5, 1, 7));
         System.out.println(listOne);

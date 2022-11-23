@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Five {
+public class DogsAndCatsHashMap {
     public static void main(String[] args) {
         HashMap<String, Integer> cats = new HashMap<>();
         cats.put("Васька", 2);
